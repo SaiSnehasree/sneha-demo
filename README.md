@@ -1,4 +1,4 @@
 # sneha-demo
 This is my first Git Repository.
 <br>
-Author- SaiSneha
+Author- Sneha (vit ap)
